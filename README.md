@@ -52,19 +52,6 @@
   <a href="https://www.credly.com/badges/1e0b84a2-5125-437e-a737-8989ac0668d5/public_url"><img alt="CKAD" src="https://img.shields.io/badge/CKAD-Certified_Kubernetes_Application_Developer-326CE5?style=flat-square&logo=kubernetes&logoColor=white"></a>
 </p>
 
-## Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kpryu6&show_icons=true&hide_border=true&theme=github_dark_dimmed&hide_title=true&include_all_commits=true">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kpryu6&show_icons=true&hide_border=true&theme=default&hide_title=true&include_all_commits=true">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kpryu6&layout=compact&hide_border=true&theme=github_dark_dimmed&hide_title=true&langs_count=6">
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpryu6&layout=compact&hide_border=true&theme=default&hide_title=true&langs_count=6">
-  </picture>
-</p>
-
 <p align="center">
   <sub>홈랩 운영 기록과 트러블슈팅은 <a href="https://wiki.kpryu.cloud">wiki.kpryu.cloud</a>에 씁니다.</sub>
 </p>
